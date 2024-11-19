@@ -11,21 +11,22 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [0.0.1] - 2024-11-16
 
-[TRAV-1](https://ensign-team-r2m2oa1m.atlassian.net/projects/TRAV/versions/10000/tab/release-report-all-issues#:~:text=TRAV%2D1%20%20Location,30%20Sprint%20Goal) - Location We Are Traveling To?
+- [TRAV-1](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-1) - Location We Are Traveling To?
 
-[TRAV-18]() - Login Screen
+- [TRAV-18](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-18) - Login Screen
 
-TRAV-20 Maps for the Area
+- [TRAV-20](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-20) - Maps for the Area
 
-TRAV-25 Coach Teams on the Scrum Process
+- [TRAV-25](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-25) - Coach Teams on the Scrum Process
 
-TRAV-26 Setup Jira Board for Group Project
+- [TRAV-26](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-26) - Setup Jira Board for Group Project
 
-TRAV-27 Conduct Sprint Review and Gather Feedback
+- [TRAV-27](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-27) - Conduct Sprint Review and Gather Feedback
 
-TRAV-29 Product Goal
+- [TRAV-29](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-29) - Product Goal
 
-TRAV-30 Sprint Goal
+- [TRAV-30](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-30) - Sprint Goal
+
 ### Added
 
  Nothing yet!
