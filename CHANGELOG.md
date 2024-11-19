@@ -9,60 +9,31 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - Nothing yet!
 
-## [0.4.1] - 2024-05-17
+## [0.0.1] - 2024-11-16
 
-- Fix `FLASK_STATIC_DIGEST_HOST_URL` to support URL paths that have multiple `/` segments
+[TRAV-1](https://ensign-team-r2m2oa1m.atlassian.net/projects/TRAV/versions/10000/tab/release-report-all-issues#:~:text=TRAV%2D1%20%20Location,30%20Sprint%20Goal) - Location We Are Traveling To?
 
-## [0.4.0] - 2023-05-14
+[TRAV-18]() - Login Screen
 
-- Brotli support added by [Dr. Matthew Swabey](https://github.com/mattaw)
-- Remove `FLASK_STATIC_DIGEST_GZIP_FILES` gzip config option
-- Add `FLASK_STATIC_DIGEST_COMPRESSION` (defaults to `["gzip"]` and replaces the old gzip config option)
+TRAV-20 Maps for the Area
 
-## [0.3.0] - 2022-03-16
+TRAV-25 Coach Teams on the Scrum Process
 
-- Add support for digesting static files in blueprints and nested blueprints
-- Spruce up the code base by using Black for code formatting
+TRAV-26 Setup Jira Board for Group Project
 
-## [0.2.1] - 2020-12-23
+TRAV-27 Conduct Sprint Review and Gather Feedback
 
-### Fixed
+TRAV-29 Product Goal
 
-- Ensure Flask's `static_url_path` is used if you have a host URL set
-
-## [0.2.0] - 2020-12-23
-
+TRAV-30 Sprint Goal
 ### Added
 
-- Support to prepend your static paths with a host / CDN URL via `FLASK_STATIC_DIGEST_HOST_URL`
-
-## [0.1.4] - 2020-11-24
+ Nothing yet!
 
 ### Fixed
 
-- `static_url_for` will now throw a 404 instead of a 500 if you have an invalid `filename`
-
-## [0.1.3] - 2020-01-23
-
-### Added
-
-- Windows support
-
-## [0.1.2] - 2019-10-30
-
-### Fixed
-
-- Really fix the version being read dynamically in `setup.py`
-
-## [0.1.1] - 2019-10-30
-
-### Fixed
-
-- Attempt to fix the version being read dynamically in `setup.py`
-
-## [0.1.0] - 2019-10-30
-
-### Added
+- Nothing yet!
+  
 
 - Everything!
 
