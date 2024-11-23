@@ -7,6 +7,9 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [0.0.1] - 2024-11-22
+
+
 - [TRAV-5](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-5) - Accommodations
 
 - [TRAV-6](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-6) - Travel
