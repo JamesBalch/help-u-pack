@@ -11,7 +11,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [0.2.1] - 2024-11-29
 ### Added
 - [TRAV-65](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-65)) - Sprint Goal #3
-- [TRAV-66](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-66)-Product Goal #3
+- [TRAV-66](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-66) - Product Goal #3
 - [TRAV-60](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-60) - Condense Issues
 - [TRAV-61](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-61) - Home Screen
 - [TRAV-61](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-61) - Home Screen
