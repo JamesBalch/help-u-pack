@@ -8,6 +8,44 @@ Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 
+## [0.2.1] - 2024-11-29
+### Added
+- [TRAV-65](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-65)) - Sprint Goal #3
+- [TRAV-66].(https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-66)-Product Goal #3
+- [TRAV-60](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-60) - Condense Issues
+- [TRAV-61](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-61) - Home Screen
+- [TRAV-61](https://ensign-team-r2m2oa1m.atlassian.net/jira/software/projects/TRAV/boards/2/backlog?selectedIssue=TRAV-61) - Home Screen
+### Fixed
+- [TRAV-1](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-1) - Location We Are Traveling To?
+  
+- [TRAV-18](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-18) - Login Screen
+  
+- [TRAV-5](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-5) - Accommodations
+  
+- [TRAV-52](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-52) - Budget
+  
+- [TRAV-46](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-46) - Currency
+  
+- [TRAV-20](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-20) - Maps for the Area
+  
+- [TRAV-45](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-45) - Available Transportation
+  
+- [TRAV-35](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-35) - Emergency Contact
+  
+- [TRAV-34](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-34) - Expense Tracker
+  
+- [TRAV-38](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-38) - Social Media Integration
+  
+- [TRAV-39](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-39) - Travel Communities
+  
+- [TRAV-14](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-14) - Cost of Things
+  
+- [TRAV-51](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-51) - Airline Flights
+  
+- [TRAV-37](https://ensign-team-r2m2oa1m.atlassian.net/browse/TRAV-37) - Travel deals
+
+
+
 
 ## [0.1.1] - 2024-11-22
 ### Added
